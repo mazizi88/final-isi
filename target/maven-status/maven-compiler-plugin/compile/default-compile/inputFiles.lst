@@ -1,7 +1,0 @@
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/hibernate/ConnectionManage.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/entity/Customer.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/entity/Transactions.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/hibernate/HibernateUtil.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/listiners/CardServiceWebPBEInitializer.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/listiners/CardServiceListener.java
-/home/masood/projects/finalProject/src/main/java/ir/isi/card/service/Hello.java

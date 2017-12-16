@@ -1,7 +1,0 @@
-ir/isi/card/entity/Customer.class
-ir/isi/card/hibernate/ConnectionManage.class
-ir/isi/card/hibernate/HibernateUtil.class
-ir/isi/card/listiners/CardServiceListener.class
-ir/isi/card/listiners/CardServiceWebPBEInitializer.class
-ir/isi/card/service/Hello.class
-ir/isi/card/entity/Transactions.class
