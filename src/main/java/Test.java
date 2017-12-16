@@ -7,6 +7,7 @@ public class Test {
         HibernateUtil hu=new HibernateUtil();
        Session session= hu.getSession();
         System.out.println("sss");
+        //sddldis test
 
     }
 }
